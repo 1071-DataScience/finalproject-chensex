@@ -3,7 +3,6 @@
 ### Groups
 * < 彭賢訓 , student ID1 >
 * < 陳研佑 , 107753021 >
-* < name, student ID3 >
 
 Project link :
 https://github.com/1071-DataScience/finalproject-itsnotponpon?fbclid=IwAR2tKMi2IUp6VM7l4JyE8yEK57HNAc-46c2Ca-ts6jkghx1cQy9bEusXG1c
